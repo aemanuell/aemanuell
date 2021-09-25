@@ -5,14 +5,6 @@
 - 🔌🔋 Estudante de engenharia eletrônica na Universidade de Brasília
 - 📎 Contate-me no email: anttonioemanuell@gmail.com
 
-<a href="https://github.com/Eugeniosales/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemanuell&hide=jupyter%20notebook,html&layout=compact&theme=dracula" />
-</a>
-
-<a href="https://github.com/aemanuell/github-readme-statst">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=aemanuell&show_icons=true&theme=dracula" />
-</a>
-
 <div align="center">
   <a href="https://github.com/aemanuell">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=aemanuell&show_icons=true&theme=great-gatsby/>
