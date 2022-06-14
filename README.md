@@ -2,7 +2,7 @@
 
 - 💻 Desenvolvedor front-end
 - 📗 ReactJs | JavaScript | TypeScript | HTML | CSS (Bootstrap) | Jquery | Python | C
-- 🔌🔋 Estudante de engenharia eletrônica na Universidade de Brasília
+- 🔌🔋 Estudante de engenharia de software na Universidade de Brasília
 - 📎 Contate-me no email: anttonioemanuell@gmail.com
 
 <div align="center">
