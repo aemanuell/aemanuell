@@ -1,7 +1,7 @@
 ## Olá eu sou o Antônio Emanuel 👨‍💻
 
 - 💻 Desenvolvedor front-end
-- 📗 ReactJs | JavaScript | TypeScript | HTML | CSS (Bootstrap) | Jquery | Python | C
+- 📗 ReactJs | JavaScript | TypeScript | Node.Js | HTML | CSS (Bootstrap) | Jquery | Python | C
 - 🔌🔋 Estudante de engenharia de software na Universidade de Brasília
 - 📎 Contate-me no email: anttonioemanuell@gmail.com
 
